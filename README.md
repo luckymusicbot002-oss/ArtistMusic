@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/f4nnyn.svg" width="100%" height="500">
+<img src="IMG_20261001_193923_921.jpg" width="100%" height="500">
 
 <br>
 <br><br>
@@ -23,7 +23,7 @@
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                   ✦  ARTISTMUSIC MUSIC BOT  ✦
+                   ✦  KIRITOMUSIC MUSIC BOT  ✦
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
@@ -362,14 +362,14 @@ docker run -d --env-file .env --name artistmusic artistmusic
 
 <br>
 
-[![ARTIST](https://files.catbox.moe/kcnahh.png)](https://t.me/Artistbots)
+[![KIRITO](https://t.me/+5A7bvggxnolmZWU1)
 
 <br>
 
 | Platform | Link |
 |:---:|:---:|
-| 📢 Updates Channel | [t.me/Artistbots](https://t.me/Artistbots) |
-| 💬 Support Group | [t.me/artistmusicmusic](https://t.me/elevenytschats) |
+| 📢 Updates Channel | [🥀 Broken Inside](https://t.me/luckypenside) |
+| 💬 Support Group | [᭼⎯᪵⎯꯭⃨̽𝆺꯭𝅥💗̬ 𝐅𐍂𖾔ᛧ꒖ᴅ 𖾓 ᴢ៰꒖𖾔 🧿̬ᡣ꯭𝆆͢𐭩ฺ꯭𝆭𝁤꯭᪵](https://t.me/+5A7bvggxnolmZWU1) |
 
 </div>
 
@@ -387,8 +387,8 @@ Built on the shoulders of giants:
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-         Made with ❤️  by  Artist  ·  Powered by ArtistBots
-                   © 2026 ArtistMusic · MIT License
+         Made with ❤️  by  🚨᭼⎯᪵⎯꯭⃨̽𝆺꯭𝅥💗̬ 𝐊𐍂ᛧ𖾓ᛧ៰ 🧿̬ᡣ꯭𝆆͢𐭩ฺ꯭𝆭𝁤꯭᪵🚨  ·  Powered by kiritoBots
+                   © 2026 KIRITOMUSIC · MIT License
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
